@@ -5,6 +5,7 @@ import (
 	httptransport "github.com/go-kit/kit/transport/http"
 
 	"github.com/jc-public/micromdm/platform/appstore"
+	"github.com/jc-public/micromdm/platform/blueprint"
 	"github.com/jc-public/micromdm/platform/config"
 	"github.com/jc-public/micromdm/platform/dep"
 	"github.com/jc-public/micromdm/platform/dep/sync"
@@ -12,7 +13,6 @@ import (
 	"github.com/jc-public/micromdm/platform/profile"
 	"github.com/jc-public/micromdm/platform/remove"
 	"github.com/jc-public/micromdm/platform/user"
-	"github.com/jc-public/micromdmmmm/platform/blueprint"
 )
 
 type remoteServices struct {

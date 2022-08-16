@@ -13,9 +13,9 @@ import (
 
 	"github.com/go-kit/kit/log"
 	"github.com/jc-public/micromdm/pkg/crypto"
+	"github.com/jc-public/micromdm/platform/blueprint"
 	"github.com/jc-public/micromdm/platform/device"
 	"github.com/jc-public/micromdm/platform/profile"
-	"github.com/jc-public/micromdmmmm/platform/blueprint"
 	"github.com/pkg/errors"
 )
 

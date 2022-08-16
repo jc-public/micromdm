@@ -16,8 +16,8 @@ import (
 
 	"github.com/jc-public/micromdm/mdm"
 	"github.com/jc-public/micromdm/mdm/enroll"
+	httputil2 "github.com/jc-public/micromdm/pkg/httputil"
 	"github.com/jc-public/micromdm/platform/apns"
-	hgithub.com/jc-public/micromdmmmic/micromdmmm/pkg/httputil"
 	"github.com/jc-public/micromdm/platform/appstore"
 	appsbuiltin "github.com/jc-public/micromdm/platform/appstore/builtin"
 	"github.com/jc-public/micromdm/platform/blueprint"
