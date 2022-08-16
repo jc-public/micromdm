@@ -12,9 +12,9 @@ import (
 	"github.com/groob/plist"
 	"github.com/pkg/errors"
 
-	"github.com/micromdm/micromdm/mdm"
-	"github.com/micromdm/micromdm/platform/command"
-	"github.com/micromdm/micromdm/platform/pubsub"
+	"github.com/jc-public/micromdm/mdm"
+	"github.com/jc-public/micromdm/platform/command"
+	"github.com/jc-public/micromdm/platform/pubsub"
 )
 
 const (

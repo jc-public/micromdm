@@ -12,9 +12,9 @@ import (
 	"github.com/go-kit/kit/log/level"
 	"github.com/pkg/errors"
 
-	"github.com/micromdm/micromdm/dep"
-	conf "github.com/micromdm/micromdm/platform/config"
-	"github.com/micromdm/micromdm/platform/pubsub"
+	"github.com/jc-public/micromdm/dep"
+	conf "github.com/jc-public/micromdm/platform/config"
+	"github.com/jc-public/micromdm/platform/pubsub"
 )
 
 const (

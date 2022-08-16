@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"log"
 
-	"github.com/micromdm/micromdm/platform/config"
-	"github.com/micromdm/micromdm/platform/pubsub"
+	"github.com/jc-public/micromdm/platform/config"
+	"github.com/jc-public/micromdm/platform/pubsub"
 )
 
 func (svc *DEPService) watchTokenUpdates(pubsub pubsub.Subscriber) error {

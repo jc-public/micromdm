@@ -12,7 +12,7 @@ import (
 	"github.com/groob/plist"
 	"github.com/pkg/errors"
 
-	"github.com/micromdm/micromdm/mdm/appmanifest"
+	"github.com/jc-public/micromdm/mdm/appmanifest"
 )
 
 type Repo struct {

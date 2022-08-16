@@ -7,7 +7,7 @@ import (
 
 	"github.com/go-kit/kit/endpoint"
 
-	"github.com/micromdm/micromdm/pkg/httputil"
+	"github.com/jc-public/micromdm/pkg/httputil"
 )
 
 type ListDevicesOption struct {

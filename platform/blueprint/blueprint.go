@@ -5,7 +5,7 @@ import (
 
 	"google.golang.org/protobuf/proto"
 
-	"github.com/micromdm/micromdm/platform/blueprint/internal/blueprintproto"
+	"github.com/jc-public/micromdm/platform/blueprint/internal/blueprintproto"
 )
 
 // ApplyAt is a case-insensitive string that specifies at which point the

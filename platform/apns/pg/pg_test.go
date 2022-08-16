@@ -8,9 +8,9 @@ import (
 	"testing"
 
 	"github.com/go-kit/kit/log"
+	"github.com/jc-public/micromdm/platform/apns"
 	"github.com/kolide/kit/dbutil"
 	_ "github.com/lib/pq"
-	"github.com/micromdm/micromdm/platform/apns"
 )
 
 func TestPGCrud(t *testing.T) {

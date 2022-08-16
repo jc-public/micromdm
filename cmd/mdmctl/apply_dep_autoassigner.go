@@ -5,7 +5,7 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/micromdm/micromdm/platform/dep/sync"
+	"github.com/jc-public/micromdm/platform/dep/sync"
 	"github.com/pkg/errors"
 )
 

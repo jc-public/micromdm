@@ -7,7 +7,7 @@ import (
 	"github.com/go-kit/kit/endpoint"
 	"github.com/pkg/errors"
 
-	"github.com/micromdm/micromdm/pkg/httputil"
+	"github.com/jc-public/micromdm/pkg/httputil"
 )
 
 func (s DEPSyncService) ApplyAutoAssigner(ctx context.Context, aa *AutoAssigner) error {

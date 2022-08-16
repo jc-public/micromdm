@@ -4,8 +4,8 @@ import (
 	"context"
 	"sync"
 
-	"github.com/micromdm/micromdm/dep"
-	"github.com/micromdm/micromdm/platform/pubsub"
+	"github.com/jc-public/micromdm/dep"
+	"github.com/jc-public/micromdm/platform/pubsub"
 )
 
 type Service interface {

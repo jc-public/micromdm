@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package mdmproto;
 
-option go_package = "github.com/micromdm/micromdm/mdm/mdm/internal/mdmproto";
+option go_package = "github.com/jc-public/micromdm/mdm/mdm/internal/mdmproto";
 
 message CommandPayload {
   string command_uuid = 1;

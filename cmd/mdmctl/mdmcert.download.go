@@ -14,8 +14,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/micromdm/micromdm/pkg/crypto"
-	"github.com/micromdm/micromdm/pkg/crypto/mdmcertutil"
+	"github.com/jc-public/micromdm/pkg/crypto"
+	"github.com/jc-public/micromdm/pkg/crypto/mdmcertutil"
 
 	"github.com/go-kit/kit/log"
 	"github.com/pkg/errors"

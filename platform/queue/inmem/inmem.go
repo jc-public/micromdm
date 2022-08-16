@@ -4,10 +4,10 @@ import (
 	"container/list"
 	"context"
 
-	"github.com/micromdm/micromdm/mdm"
-	"github.com/micromdm/micromdm/platform/command"
-	"github.com/micromdm/micromdm/platform/pubsub"
-	boltqueue "github.com/micromdm/micromdm/platform/queue"
+	"github.com/jc-public/micromdm/mdm"
+	"github.com/jc-public/micromdm/platform/command"
+	"github.com/jc-public/micromdm/platform/pubsub"
+	boltqueue "github.com/jc-public/micromdm/platform/queue"
 
 	"github.com/go-kit/kit/log"
 	"github.com/go-kit/kit/log/level"

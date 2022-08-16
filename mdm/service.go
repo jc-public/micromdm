@@ -3,7 +3,7 @@ package mdm
 import (
 	"context"
 
-	"github.com/micromdm/micromdm/platform/pubsub"
+	"github.com/jc-public/micromdm/platform/pubsub"
 )
 
 // Service describes the core MDM protocol interactions with clients.

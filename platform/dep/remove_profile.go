@@ -7,8 +7,8 @@ import (
 
 	"github.com/go-kit/kit/endpoint"
 
-	// "github.com/micromdm/micromdm/dep"
-	"github.com/micromdm/micromdm/pkg/httputil"
+	// "github.com/jc-public/micromdm/dep"
+	"github.com/jc-public/micromdm/pkg/httputil"
 )
 
 func (svc *DEPService) RemoveProfile(ctx context.Context, serials ...string) (map[string]string, error) {

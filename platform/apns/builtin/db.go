@@ -7,8 +7,8 @@ import (
 	"github.com/boltdb/bolt"
 	"github.com/pkg/errors"
 
-	"github.com/micromdm/micromdm/platform/apns"
-	"github.com/micromdm/micromdm/platform/pubsub"
+	"github.com/jc-public/micromdm/platform/apns"
+	"github.com/jc-public/micromdm/platform/pubsub"
 )
 
 const PushBucket = "mdm.PushInfo"

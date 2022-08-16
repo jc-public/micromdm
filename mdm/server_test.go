@@ -8,7 +8,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/micromdm/micromdm/pkg/crypto"
+	"github.com/jc-public/micromdm/pkg/crypto"
 
 	"go.mozilla.org/pkcs7"
 )

@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/micromdm/micromdm/pkg/crypto"
+	"github.com/jc-public/micromdm/pkg/crypto"
 
 	httptransport "github.com/go-kit/kit/transport/http"
 	"github.com/groob/plist"

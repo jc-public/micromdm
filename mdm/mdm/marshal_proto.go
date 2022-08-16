@@ -5,7 +5,7 @@ import (
 
 	"google.golang.org/protobuf/proto"
 
-	"github.com/micromdm/micromdm/mdm/mdm/internal/mdmproto"
+	"github.com/jc-public/micromdm/mdm/mdm/internal/mdmproto"
 )
 
 func MarshalCommandPayload(cmd *CommandPayload) ([]byte, error) {

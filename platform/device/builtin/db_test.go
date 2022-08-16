@@ -9,7 +9,7 @@ import (
 
 	"github.com/boltdb/bolt"
 
-	"github.com/micromdm/micromdm/platform/device"
+	"github.com/jc-public/micromdm/platform/device"
 )
 
 func TestSave(t *testing.T) {

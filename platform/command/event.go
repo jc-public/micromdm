@@ -7,8 +7,8 @@ import (
 	"github.com/pkg/errors"
 	"google.golang.org/protobuf/proto"
 
-	"github.com/micromdm/micromdm/mdm/mdm"
-	"github.com/micromdm/micromdm/platform/command/internal/commandproto"
+	"github.com/jc-public/micromdm/mdm/mdm"
+	"github.com/jc-public/micromdm/platform/command/internal/commandproto"
 )
 
 type Event struct {

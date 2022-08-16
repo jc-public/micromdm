@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	"github.com/go-kit/kit/log"
-	"github.com/micromdm/micromdm/mdm"
-	"github.com/micromdm/micromdm/platform/pubsub/inmem"
+	"github.com/jc-public/micromdm/mdm"
+	"github.com/jc-public/micromdm/platform/pubsub/inmem"
 )
 
 func TestQueue(t *testing.T) {

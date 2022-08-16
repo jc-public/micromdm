@@ -9,9 +9,9 @@ import (
 	"time"
 
 	"github.com/go-kit/kit/log"
+	"github.com/jc-public/micromdm/platform/device"
 	"github.com/kolide/kit/dbutil"
 	_ "github.com/lib/pq"
-	"github.com/micromdm/micromdm/platform/device"
 )
 
 func TestPGCrud(t *testing.T) {

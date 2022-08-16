@@ -1,7 +1,7 @@
 package profile
 
 import (
-	"github.com/micromdm/micromdm/platform/profile/internal/profileproto"
+	"github.com/jc-public/micromdm/platform/profile/internal/profileproto"
 
 	"github.com/groob/plist"
 	"github.com/pkg/errors"

@@ -3,7 +3,7 @@ package webhook
 import (
 	"github.com/pkg/errors"
 
-	"github.com/micromdm/micromdm/mdm"
+	"github.com/jc-public/micromdm/mdm"
 )
 
 type CheckinEvent struct {

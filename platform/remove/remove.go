@@ -6,8 +6,8 @@ import (
 	"github.com/pkg/errors"
 	"google.golang.org/protobuf/proto"
 
-	"github.com/micromdm/micromdm/mdm"
-	"github.com/micromdm/micromdm/platform/remove/internal/removeproto"
+	"github.com/jc-public/micromdm/mdm"
+	"github.com/jc-public/micromdm/platform/remove/internal/removeproto"
 )
 
 type Device struct {

@@ -20,9 +20,9 @@ import (
 	"github.com/pkg/errors"
 	"golang.org/x/crypto/pkcs12"
 
-	"github.com/micromdm/micromdm/pkg/crypto/profileutil"
-	"github.com/micromdm/micromdm/platform/blueprint"
-	"github.com/micromdm/micromdm/platform/profile"
+	"github.com/jc-public/micromdm/pkg/crypto/profileutil"
+	"github.com/jc-public/micromdm/platform/blueprint"
+	"github.com/jc-public/micromdm/platform/profile"
 )
 
 type applyCommand struct {
